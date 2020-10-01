@@ -10,6 +10,7 @@ public:
     bool isPerfectSquare(int num) {
         
         cout<<commit1<<endl;
+        cout<<commit2<<endl;
         for(long long int i=1;;i++)
         {
             if(i*i==num)
