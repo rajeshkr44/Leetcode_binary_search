@@ -5,6 +5,7 @@ static const auto _____ = []()
     cin.tie(0);
     return 0;
 }();
+cout<<commit1<<endl;
 class Solution {
 public:
     int mySqrt(int x) {
