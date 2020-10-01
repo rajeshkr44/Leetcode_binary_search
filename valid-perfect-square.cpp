@@ -8,6 +8,8 @@ static const auto _____ = []()
 class Solution {
 public:
     bool isPerfectSquare(int num) {
+        
+        cout<<commit1<<endl;
         for(long long int i=1;;i++)
         {
             if(i*i==num)
