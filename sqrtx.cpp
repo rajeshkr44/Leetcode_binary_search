@@ -7,6 +7,7 @@ static const auto _____ = []()
 }();
 cout<<commit1<<endl;
 cout<<commit2<<endl;
+cout<<commit3<<endl;
 class Solution {
 public:
     int mySqrt(int x) {
