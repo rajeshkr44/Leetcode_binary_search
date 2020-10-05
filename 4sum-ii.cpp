@@ -6,6 +6,7 @@ static const auto _____ = []()
     return 0;
 }();
 cout<<commit1<<endl;
+cout<<commit2<<endl;
 class Solution {
 public:
   
